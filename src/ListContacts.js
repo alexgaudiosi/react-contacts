@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function ListContacts(props) {
   return (
@@ -19,7 +19,6 @@ function ListContacts(props) {
       ))}
     </ol>
   )
-
 }
 
 export default ListContacts
